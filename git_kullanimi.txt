@@ -1,0 +1,13 @@
+git init-->git doyası oluşturma
+git add <dosyaadi> -->dosyayı gite aktarma
+git add .
+git commit -m "....."
+
+--global user.email "eposta"
+--golobal user.name "name"
+
+git push origin master
+
+git remote add origin "sunucuYolu_ex:http://github.com/muratyilmazz"
+git push -u origin master
+ 
